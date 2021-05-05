@@ -2,4 +2,4 @@ host, emby.mcwy.me, 其他流媒体
 host, a-invdn-com.akamaized.net, 广告拦截
 host-suffix, cpatrk.net, 广告拦截
 host-suffix, xeton.dev, 广告拦截
-host-suffix, plusmedia.site, 其他国外流媒体
+host-suffix, plusmedia.site, 其他流媒体
