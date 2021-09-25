@@ -5,3 +5,4 @@ host-suffix, xeton.dev, 广告拦截
 host-suffix, plusmedia.site, 其他流媒体
 host-suffix, odysseyplus.site, 其他流媒体
 host-suffix, jmsooo.com, 其他流媒体
+host-suffix, investing.com, DIRECT
