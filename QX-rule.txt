@@ -1,4 +1,3 @@
 host-suffix, plusmedia.site, 其他流媒体
 host-suffix, odysseyplus.site, 其他流媒体
 host-suffix, jmsooo.com, 其他流媒体
-host-suffix, 908600.xyz, 其他流媒体
