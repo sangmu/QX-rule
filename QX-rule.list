@@ -7,4 +7,3 @@ host, push2.eastmoney.com, direct
 host-suffix,bdys.me,Emby
 host-suffix,btbdys.com,Emby
 host-suffix,blueseamusics.com,direct
-ip-cidr,203.107.1.1/24,reject
