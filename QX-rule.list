@@ -1,3 +1,4 @@
+#自用qx规则
 host-suffix, plusmedia.site, Emby
 host-suffix, odysseyplus.site, Emby
 host-suffix, jmsooo.com, Emby
@@ -9,3 +10,4 @@ host-suffix,btbdys.com,Emby
 host-suffix,blueseamusics.com,direct
 host-suffix,bygcloud.com,proxy
 host-suffix,eejsq.org,proxy
+host-suffix,eevpn.com,proxy
