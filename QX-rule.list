@@ -1,14 +1,19 @@
 #自用qx规则
+#Emby
 host-suffix, plusmedia.site, Emby
 host-suffix, odysseyplus.site, Emby
 host-suffix, jmsooo.com, Emby
 host-suffix,bdys.me,Emby
 host-suffix,btbdys.com,Emby
 host-suffix,www.arp220.us,Emby
+#other
 host-suffix, investing.com, proxy
 host-suffix, ptwxz.com, proxy
 host, push2.eastmoney.com, direct
 host-suffix,blueseamusics.com,direct
+#airpot
 host-suffix,bygcloud.com,proxy
 host-suffix,eejsq.org,proxy
 host-suffix,eevpn.com,proxy
+#12306
+host-suffix,ad.12306.cn,direct
