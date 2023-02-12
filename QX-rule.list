@@ -17,3 +17,6 @@ host-suffix,eejsq.org,proxy
 host-suffix,eevpn.com,proxy
 #12306
 host-suffix,ad.12306.cn,direct
+#bing
+host,www.bing.com,Open AI
+host-suffix,openai.com,Open AI
