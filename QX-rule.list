@@ -1,13 +1,10 @@
 #自用qx规则
 #Emby
-host-suffix, plusmedia.site, Emby
-host-suffix, odysseyplus.site, Emby
-host-suffix, jmsooo.com, Emby
-host-suffix,bsem.ddns.me,Emby
-host-suffix,Bluesea.ddns.me,Emby
-host-suffix,emby-pub1.blueseacdn.com,Emby
-host-suffix,cf3.misakaf.org,Emby
-host-suffix,cdn.misakaf.org,Emby
+host-suffix,plusmedia.site,Emby
+host-suffix,odysseyplus.site,Emby
+host-suffix,jmsooo.com,Emby
+host-suffix,emby.misakaf.org,Emby
+host-suffix,embyplus.org,Emby
 #other
 host-suffix, investing.com, proxy
 host-suffix, ptwxz.com, proxy
