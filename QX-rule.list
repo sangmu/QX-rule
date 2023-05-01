@@ -5,10 +5,11 @@ host-suffix,odysseyplus.site,Emby
 host-suffix,jmsooo.com,Emby
 host-suffix,emby.misakaf.org,Emby
 host-suffix,embyplus.org,Emby
+host-suffix,gd.9521732.xyz,Emby
 #other
-host-suffix, investing.com, proxy
-host-suffix, ptwxz.com, proxy
-host, push2.eastmoney.com, direct
+host-suffix,investing.com,proxy
+host-suffix,ptwxz.com,proxy
+host,push2.eastmoney.com,direct
 host-suffix,blueseamusics.com,direct
 #airpot
 host-suffix,bygcloud.com,proxy
@@ -21,4 +22,4 @@ host-suffix,bing.com,Open AI
 host-suffix,openai.com,Open AI
 host-suffix,bard.google.com,Open AI
 #sub-stroe
-host-suffix, sub-store.vercel.app, proxy
+host-suffix,sub-store.vercel.app,proxy
