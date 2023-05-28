@@ -22,5 +22,6 @@ host-suffix,ad.12306.cn,direct
 host-suffix,bing.com,Open AI
 host-suffix,openai.com,Open AI
 host-suffix,bard.google.com,Open AI
+host-suffix,sentry.io,REJECT
 #sub-stroe
 host-suffix,sub-store.vercel.app,proxy
