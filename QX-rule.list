@@ -23,5 +23,6 @@ host-suffix,bing.com,Open AI
 host-suffix,openai.com,Open AI
 host-suffix,bard.google.com,Open AI
 host-suffix,sentry.io,REJECT
+host-suffix,claude.ai,Open AI
 #sub-stroe
 host-suffix,sub-store.vercel.app,proxy
