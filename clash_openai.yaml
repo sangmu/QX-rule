@@ -1,0 +1,8 @@
+#自用openai规则
+payload:
+  - PROCESS-NAME,bfs4proxy.exe
+  - PROCESS-NAME,tor.exe
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
