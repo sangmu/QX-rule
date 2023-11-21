@@ -30,6 +30,7 @@ host-suffix,sentry.io,REJECT
 host-suffix,claude.ai,Open AI
 host-suffix,anthropic.com,Open AI
 host-suffix,tuta.com,Open AI
+host-suffix,mail.com,Open AI
 
 #sub-stroe
 host-suffix,sub-store.vercel.app,proxy
