@@ -1,9 +1,5 @@
-#自用openai规则
-PROCESS-NAME,bfs4proxy.exe 
-PROCESS-NAME,tor.exe 
+#自用openai规则 
 DOMAIN-SUFFIX,bing.com 
 DOMAIN-SUFFIX,bard.google.com 
 DOMAIN-SUFFIX,anthropic.com 
 DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,tuta.com
-DOMAIN-SUFFIX,mail.com
