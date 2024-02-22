@@ -33,6 +33,8 @@ host-suffix,claude.ai,Open AI
 host-suffix,anthropic.com,Open AI
 host-suffix,tuta.com,Open AI
 host-suffix,mail.com,Open AI
+host-suffix,aihubmix.com,Open AI
+host-suffix,orisound.cn,Open AI
 
 #sub-stroe
 host-suffix,sub-store.vercel.app,proxy
