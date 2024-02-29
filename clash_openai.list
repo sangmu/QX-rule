@@ -3,3 +3,9 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,Gemini.google.com 
 DOMAIN-SUFFIX,anthropic.com 
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,tuta.com
+DOMAIN-SUFFIX,mail.com
+DOMAIN-SUFFIX,aihubmix.com
+DOMAIN-SUFFIX,orisound.cn
+PROCESS-NAME,bfs4proxy.exe
+PROCESS-NAME,tor.exe
