@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,aihubmix.com
 DOMAIN-SUFFIX,orisound.cn
 PROCESS-NAME,bfs4proxy.exe
 PROCESS-NAME,tor.exe
+DOMAIN-SUFFIX,groq.com
+DOMAIN-KEYWORD,openai
