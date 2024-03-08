@@ -28,13 +28,14 @@ host-suffix,ad.12306.cn,direct
 host-suffix,bing.com,Open AI
 host-suffix,openai.com,Open AI
 host-suffix,Gemini.google.com,Open AI
-host-suffix,sentry.io,REJECT
+host-suffix,sentry.io,Open AI
 host-suffix,claude.ai,Open AI
 host-suffix,anthropic.com,Open AI
 host-suffix,tuta.com,Open AI
 host-suffix,mail.com,Open AI
 host-suffix,aihubmix.com,Open AI
 host-suffix,orisound.cn,Open AI
+host-suffix,dvee.ai,Open AI
 
 
 #sub-stroe
