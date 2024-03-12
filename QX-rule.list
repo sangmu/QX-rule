@@ -36,7 +36,7 @@ host-suffix,mail.com,Open AI
 host-suffix,aihubmix.com,Open AI
 host-suffix,orisound.cn,Open AI
 host-suffix,dvee.ai,Open AI
-
+host-suffix,chatgpt.com,Open AI
 
 #sub-stroe
 host-suffix,sub-store.vercel.app,proxy
