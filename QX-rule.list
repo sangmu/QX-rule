@@ -41,6 +41,7 @@ host-suffix,chatgpt.com,Open AI
 host-suffix,groq.com,Open AI
 host-suffix,perplexity.ai,Open AI
 host-suffix,phind.com,Open AI
+host-suffix,burn.hair,Open AI
 
 #sub-stroe
 host-suffix,sub-store.vercel.app,proxy
