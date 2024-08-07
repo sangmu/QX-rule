@@ -19,6 +19,7 @@ host-suffix,investing.com,proxy
 host-suffix,ptwxz.com,proxy
 host,push2.eastmoney.com,direct
 host-suffix,blueseamusics.com,direct
+host-suffix,csdn.net,reject
 #airpot
 host-suffix,bygcloud.com,proxy
 host-suffix,eejsq.org,proxy
@@ -42,6 +43,8 @@ host-suffix,groq.com,Open AI
 host-suffix,perplexity.ai,Open AI
 host-suffix,phind.com,Open AI
 host-suffix,burn.hair,Open AI
+#数字货币
+host-suffix,okx.com,数字货币
 
 #sub-stroe
 host-suffix,sub-store.vercel.app,proxy
