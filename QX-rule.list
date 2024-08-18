@@ -24,6 +24,8 @@ host-suffix,csdn.net,reject
 host-suffix,bygcloud.com,proxy
 host-suffix,eejsq.org,proxy
 host-suffix,eevpn.com,proxy
+host-suffix,xamun.qc77.cn,proxy
+
 #12306
 host-suffix,ad.12306.cn,direct
 #openai
