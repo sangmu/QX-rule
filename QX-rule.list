@@ -26,6 +26,7 @@ host-suffix,bygcloud.com,proxy
 host-suffix,eejsq.org,proxy
 host-suffix,eevpn.com,proxy
 host-suffix,xamun.qc77.cn,proxy
+host-suffix,acaisbest.com,proxy
 
 #12306
 host-suffix,ad.12306.cn,direct
