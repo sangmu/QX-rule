@@ -21,6 +21,7 @@ host-suffix,ptwxz.com,proxy
 host,push2.eastmoney.com,direct
 host-suffix,blueseamusics.com,direct
 host-suffix,csdn.net,reject
+IP-CIDR,95.161.76.100/31,REJECT
 #airpot
 host-suffix,bygcloud.com,proxy
 host-suffix,eejsq.org,proxy
