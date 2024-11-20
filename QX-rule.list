@@ -18,9 +18,10 @@ host-suffix,hka-emby.aliz.work,Emby
 #other
 host-suffix,investing.com,proxy
 host-suffix,ptwxz.com,proxy
-host,push2.eastmoney.com,direct
 host-suffix,blueseamusics.com,direct
 host-suffix,csdn.net,reject
+host, appadvise.eastmoney.com, reject
+host, roadshow.lvb.eastmoney.com, reject
 IP-CIDR,95.161.76.100/31,REJECT
 #airpot
 host-suffix,bygcloud.com,proxy
@@ -50,6 +51,7 @@ host-suffix,phind.com,Open AI
 host-suffix,burn.hair,Open AI
 #数字货币
 host-suffix,okx.com,数字货币
+host-suffix,okx.com.cdn.cloudflare.net,数字货币
 
 #sub-stroe
 host-suffix,sub-store.vercel.app,proxy
