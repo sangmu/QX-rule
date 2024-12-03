@@ -20,8 +20,8 @@ host-suffix,investing.com,proxy
 host-suffix,ptwxz.com,proxy
 host-suffix,blueseamusics.com,direct
 host-suffix,csdn.net,reject
-host, appadvise.eastmoney.com, reject
-host, roadshow.lvb.eastmoney.com, reject
+host,appadvise.eastmoney.com,reject
+host,roadshow.lvb.eastmoney.com,reject
 IP-CIDR,95.161.76.100/31,REJECT
 #airpot
 host-suffix,bygcloud.com,proxy
