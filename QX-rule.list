@@ -6,7 +6,7 @@ host,stream-cf.odysseyplus.site,Emby
 host,stream-kr.odysseyplus.site,direct
 host,stream-us.odysseyplus.site,direct
 host,stream-us2.odysseyplus.site,direct
-;host-suffix,odysseyplus.site,Emby
+host-suffix,odysseyplus.site,Emby
 host-suffix,jmsooo.com,Emby
 host-suffix,misakaf.org,Emby
 host-suffix,embyplus.org,Emby
