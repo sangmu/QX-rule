@@ -2,9 +2,10 @@
 #Emby
 host-suffix,plusmedia.site,Emby
 host,cf.odysseyplus.site,Emby
-host,kr.odysseyplus.site,direct
-host,us.odysseyplus.site,direct
-host,us2.odysseyplus.site,direct
+host,stream-cf.odysseyplus.site,Emby
+host,stream-kr.odysseyplus.site,direct
+host,stream-us.odysseyplus.site,direct
+host,stream-us2.odysseyplus.site,direct
 ;host-suffix,odysseyplus.site,Emby
 host-suffix,jmsooo.com,Emby
 host-suffix,misakaf.org,Emby
