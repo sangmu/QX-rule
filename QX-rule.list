@@ -1,7 +1,11 @@
 #自用qx规则
 #Emby
 host-suffix,plusmedia.site,Emby
-host-suffix,odysseyplus.site,Emby
+host,cf.odysseyplus.site,Emby
+host,kr.odysseyplus.site,direct
+host,us.odysseyplus.site,direct
+host,us2.odysseyplus.site,direct
+;host-suffix,odysseyplus.site,Emby
 host-suffix,jmsooo.com,Emby
 host-suffix,misakaf.org,Emby
 host-suffix,embyplus.org,Emby
