@@ -23,6 +23,7 @@ host-suffix,investing.com,proxy
 host-suffix,ptwxz.com,proxy
 host-suffix,blueseamusics.com,direct
 IP-CIDR,95.161.76.100/31,REJECT
+host-suffix,api.revenuecat.com,REJECT
 #airpot
 host-suffix,bygcloud.com,proxy
 host-suffix,eejsq.org,proxy
