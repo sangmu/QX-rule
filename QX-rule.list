@@ -16,6 +16,7 @@ host-suffix,reddust.link,Emby
 host-suffix,hka-emby.aliz.work,Emby
 host-suffix,emby.my,Emby
 host-suffix,emby.cn2gias.uk,Emby
+host-suffix,bps8m.onyra.cc,Emby
 #other
 host-suffix,investing.com,proxy
 host-suffix,ptwxz.com,proxy
@@ -23,10 +24,6 @@ IP-CIDR,95.161.76.100/31,REJECT
 host-suffix,api.revenuecat.com,REJECT
 #airpot
 host-suffix,bygcloud.com,proxy
-host-suffix,eejsq.org,proxy
-host-suffix,eevpn.com,proxy
-host-suffix,xamun.qc77.cn,proxy
-host-suffix,acaisbest.com,proxy
 host-suffix,portal.tkv.one,proxy
 
 #12306
