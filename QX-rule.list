@@ -37,14 +37,14 @@ host-suffix,claude.ai,Open AI
 host-suffix,anthropic.com,Open AI
 host-suffix,tuta.com,Open AI
 host-suffix,mail.com,Open AI
-host-suffix,aihubmix.com,Open AI
 host-suffix,orisound.cn,Open AI
 host-suffix,dvee.ai,Open AI
 host-suffix,chatgpt.com,Open AI
 host-suffix,groq.com,Open AI
 host-suffix,perplexity.ai,Open AI
 host-suffix,phind.com,Open AI
-host-suffix,burn.hair,Open AI
+host-suffix,aihubmix.com,direct
+host-suffix,burn.hair,direct
 #数字货币
 host-suffix,okx.com,数字货币
 host-suffix,okx.com.cdn.cloudflare.net,数字货币
