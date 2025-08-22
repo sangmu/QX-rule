@@ -17,6 +17,7 @@ host-suffix,investingapp.net,proxy
 host-suffix,ptwxz.com,proxy
 IP-CIDR,95.161.76.100/31,REJECT
 host-suffix,api.revenuecat.com,REJECT
+host,push2.eastmoeny.com,direct
 #airpot
 host-suffix,jusesub.com,proxy
 host-suffix,portal.tkv.one,proxy
